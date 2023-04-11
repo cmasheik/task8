@@ -1,0 +1,97 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+
+
+h1{
+	margin-bottom:44px;
+	padding:;
+}
+
+.row{
+	
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:flex-start;
+	align-items:flex-end;
+	padding-left:100px;
+	margin:5px;
+}
+.box{
+	background-color:yellow;
+	border:2px solid;
+	width:8%;
+	height:73px;
+	margin-left:35px;
+}
+.ali{
+	display:flex;
+	flex-direction:row-reverse;
+	flex-wrap:wrap;
+	justify-content:flex-start;
+	align-items:flex-end;
+	padding-left:100px;
+	margin:5px;
+	margin-top:70px;
+}
+.box1{
+	background-color:yellow;
+	border:2px solid;
+	width:8%;
+	height:73px;
+	margin-left:35px;
+}
+.sheik{
+	background-color:blue;
+}
+
+.kavi{
+	background-color:#9c27b0;
+}
+.kumar{
+	display:flex;
+	flex-direction:column-reverse;
+	flex-wrap:wrap;
+	justify-content:flex-start;
+	align-items:flex-end;
+	padding-left:100px;
+	margin:5px;
+	margin-top:70px;
+}
+
+.box2{
+	background-color:yellow;
+	border:2px solid;
+	width:8%;
+	height:73px;
+	margin-left:35px;
+	
+	
+}
+	
+	
+	
+	
+.mk{
+	background-color:#8bb027;
+}
+.mk1{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-between;
+	align-items:flex-end;
+	padding-left:100px;
+	margin:5px;
+	margin-top:70px;
+}
+
+.box3{
+	background-color:yellow;
+	border:2px solid;
+	width:8%;
+	height:73px;
+	margin-left:35px;
